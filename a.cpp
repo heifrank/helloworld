@@ -2,7 +2,7 @@
 using namespace std;
 
 char ch = 's';
-int x = 88;
+int x = 100;
 
 int main(){
 	int y = 35;
